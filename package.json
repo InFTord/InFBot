@@ -1,0 +1,16 @@
+{
+  "name": "bot.js",
+  "version": "0.2.5",
+  "description": "my first bot",
+  "main": "bot.js",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "ytdl-core": "^1.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "kek"
+  },
+  "author": "InF",
+  "license": "ISC"
+}
